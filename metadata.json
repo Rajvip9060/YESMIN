@@ -1,0 +1,6 @@
+{
+  "name": "YESMIN AI",
+  "description": "YESMIN AI - Futuristic AI Girlfriend, Jarvis Assistant, Live Voice, and Autonomous Coding Agent",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
